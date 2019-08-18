@@ -22,7 +22,7 @@
   "license": "MIT",
   "devDependencies": {
     "@octokit/graphql": "^4.0.0",
-    "dotenv": "^8.0.0",
+    "dotenv": "^8.1.0",
     "execa": "^2.0.0",
     "graphql": "^14.1.1",
     "graphql-tag": "^2.10.1",
